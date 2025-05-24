@@ -46,8 +46,8 @@
 - Working **FastAPI** backend with machine-learning capabilities.  
 - Functional **Next.js** frontend for file upload and question-answering.  
 - Clear documentation for setup and usage.
-- Push both frontend and backend code to a github repository, then share the repository link with me.
-- Do not push `venv` or `node_modules` folder in github or ClassRoom.
+- Push both frontend and backend code to a `github repository` or a `Google Drive folder`, then share the repository link with me.
+- Do not push `.venv` or `node_modules` folder in github or ClassRoom.
 
 This setup will allow students to build a simple **machine-learning-based Q&A system** using **FastAPI** and **Next.js** while learning about backend and frontend integration. 🚀
 
